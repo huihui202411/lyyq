@@ -45,7 +45,7 @@ background-image: linear-gradient(0deg, #d9afd9 0%, #97d9e1 100%);
     color: #b7c4cf;
     font-size: 40px;
     position: absolute;
-    font-family: '华文行楷';
+    font-family: 'STXINGKA';
 
 }
 .card::before {
@@ -152,7 +152,7 @@ background-image: linear-gradient(0deg, #d9afd9 0%, #97d9e1 100%);
 .text {
     color: #7D6E83;
     margin-top: 45px;
-    font-family: '华文行楷';
+    font-family: 'STXINGKA';
 }
 .textTwo {
     color: #7D6E83;
@@ -177,7 +177,7 @@ background-image: linear-gradient(0deg, #d9afd9 0%, #97d9e1 100%);
     overflow: hidden;
     background-size: cover;
     font-size: 25px;
-    font-family: '华文行楷';
+    font-family: 'STXINGKA';
 	text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.8),
 	                 0px 0px 20px rgba(255, 255, 255, 0.6),
 	                 0px 0px 30px rgba(255, 255, 255, 0.4),
